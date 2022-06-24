@@ -1,0 +1,105 @@
+.bl{
+    background-color: #0d6efd 
+}
+.wh{
+    background-color: rgb(255, 255, 255);
+}
+
+.radius-margin-frunt{
+    margin-left:20px;  
+}
+.radius-margin-back{
+    margin-right:20px; 
+    
+}
+.mr{
+    margin-left: 20px;
+}
+.gapping{
+    margin:0 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.margin-top1{
+    margin: 8px
+}
+
+.line-margin{
+    margin:0 20px
+}
+.email-padding{
+    padding: 0 16px;
+}
+.input-email-margin{
+    margin: 0 12px;
+}
+.hid{
+    display: none;
+}
+.radio-margin{
+    margin-left: 10px;
+}
+.radio-position{
+    display: flex;
+    justify-content: end;
+}
+@media screen and (max-width: 738px) {
+    .radio-button{
+        display: flex;
+        justify-content: start;
+    }
+}
+.margin-right-10th{
+    margin-right: -24px;
+}
+.margin-left-pg{
+    margin-left: -24px;
+}
+.max-width-buttion{
+    width: 160px;
+}
+@media screen and (max-width: 827px){
+    .margin-right-10th{
+        margin-right: 0px;
+    }
+    .margin-left-pg{
+        margin-left: 0px;
+    }
+}
+.yes-no-buttion-height{
+    height: 37px;
+}
+.Pay-height-width{
+    width: 200px;
+    
+}
+.form-group.required .control-label:after { 
+    content:"*";
+    color:red;
+ }
+ .font-g{
+    font-family: 'Oswald', sans-serif;
+ }
+ .all-margin-top{
+    margin-top:12px;
+}
+ .all-margin-bottomLable{
+    margin-bottom: 1px;
+ }
+ .margin-upi{
+    margin-top: -27px;
+ }
+ .imageCenter {
+    display: flex;
+    justify-content: center;
+    margin-top: 21px;
+}
+
+.uploadUpiId {
+    font-size: 27px;
+   background-color: blue;
+   color: white;
+    margin-top: 26px;
+    margin-bottom: 15px;
+    
+}
